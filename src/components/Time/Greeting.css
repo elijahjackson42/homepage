@@ -1,0 +1,11 @@
+
+.greeting{
+    display:inline-block;
+    color:white;
+    font-size: 40px;
+    border-radius:10px;
+    background-color: rgba(60, 60, 60, 0.8);
+    padding:10px;
+    border-top:0px;
+    
+}

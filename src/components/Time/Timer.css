@@ -1,0 +1,17 @@
+.clock-container{
+    display:inline-block;
+    color:white;
+    font-size: 40px;
+    border-radius:10px;
+    background-color: rgba(60, 60, 60, 0.8);
+    padding:10px;
+}
+
+.place{
+    display:inline-block;
+    float:left;
+}
+.clock{
+    display:inline-block;
+    float:right;
+}
